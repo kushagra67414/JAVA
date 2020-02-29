@@ -1,4 +1,4 @@
-day 1
+		week 1
 
 
 learn about  scanner class
@@ -6,4 +6,16 @@ and types of methods
 eg - hasNextInt  ,  nextLine and many more.
 
 what is radix conversion ?  how we can use this using hasNext ? 
+
+
+		week2
+
+
+1. binding
+2. instanceof
+3. instance initializer block
+4. runtime polymorphism
+
+
+
 
