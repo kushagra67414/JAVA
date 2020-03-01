@@ -15,6 +15,30 @@ what is radix conversion ?  how we can use this using hasNext ?
 2. instanceof
 3. instance initializer block
 4. runtime polymorphism
+5. ARRAY : 	Single Dimensional Array & Multidimensional Array
+6. interface 
+7. abstract and deff between Interface vs abstract class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reference link : https://www.javatpoint.com/java-tutorial
 
 
 
