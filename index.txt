@@ -18,8 +18,8 @@ what is radix conversion ?  how we can use this using hasNext ?
 5. ARRAY : 	Single Dimensional Array & Multidimensional Array
 6. interface 
 7. abstract and deff between Interface vs abstract class
-
-
+8. anonymous array znd for each loop
+9. jagged array
 
 
 
