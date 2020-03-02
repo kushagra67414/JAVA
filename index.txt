@@ -8,7 +8,7 @@ eg - hasNextInt  ,  nextLine and many more.
 what is radix conversion ?  how we can use this using hasNext ? 
 
 
-		week2
+		29/02/2020
 
 
 1. binding
@@ -23,6 +23,12 @@ what is radix conversion ?  how we can use this using hasNext ?
 
 
 
+03/03/2020
+
+object cloning 
+types of cloning (shallow and deep & mixture of both )
+java.lang.Cloneable interface
+learn how to override the object clone method 
 
 
 
