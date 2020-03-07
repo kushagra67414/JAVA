@@ -23,22 +23,38 @@ what is radix conversion ?  how we can use this using hasNext ?
 
 
 
-03/03/2020
-
+		03/03/2020
+today learn about :
 object cloning 
+javadoc tool
+strictfp keyword
+java recursion
+call by value
 types of cloning (shallow and deep & mixture of both )
 java.lang.Cloneable interface
 learn how to override the object clone method 
 
 
+		07 /03/2020
 
-
-
-
-
-
-
-
+today learn about :
+1. what are strings ? why are the immutable ?
+2. java string class and it methods
+3. where string is stored ? why java uses concept of string literals ?
+4. how to create string object
+5. methods :
+	> trim() method & Java String toUpperCase() and toLowerCase() method
+	> String startsWith() and endsWith() method.
+	> charAt() method , length() method , intern() method , valueOf() method , replace() method
+	etc.... 
+6. what is stringbuffer and stringbuilder class ?
+ methods :
+	> replace() method
+	> insert() , append() , delete() , reverse() , capacity() , ensureCapacity()
+	etc.....
+7. String buffer vs Builder.
+8. Immutable class
+9. toString() method
 
 
 
