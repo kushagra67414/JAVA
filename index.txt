@@ -77,6 +77,27 @@ public static format(long l);:To convert java number to locale object
 8. Difference between final, finally and finalize
 9. 
 
+		11-03-2020
+
+1. java  I/O stream
+2. Java.io.DataInputStream class in Java
+
+
+		22-03-2020
+
+1. Threading in java
+2. daemon thread
+3. thread pool
+4. PrintStackTrace() method  // https://www.educative.io/edpresso/what-is-the-printstacktrace-method-in-java (to learn more)
+5. java ExecutorService
+6. ThreadGroup 
+7. Shutdown Hook
+8. multitask using multi threads using annonymous class.
+c:\\Windows\\System32\\shutdown
+
+
+
+
 reference link : https://www.javatpoint.com/java-tutorial
 
 
