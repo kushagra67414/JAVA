@@ -93,7 +93,12 @@ public static format(long l);:To convert java number to locale object
 6. ThreadGroup 
 7. Shutdown Hook
 8. multitask using multi threads using annonymous class.
-c:\\Windows\\System32\\shutdown
+  		04-03-2020
+
+1. java collection 
+2. Properties class in java
+
+
 
 
 
