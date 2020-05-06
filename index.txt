@@ -97,11 +97,13 @@ public static format(long l);:To convert java number to locale object
 
 1. java collection 
 2. Properties class in java
+3. java servlet
+4. java jsp
+5. use of JSTL LIBRARY
 
-
-
-
-
+		22-04-2020
+1. innee classes
+2. regex 
 
 reference link : https://www.javatpoint.com/java-tutorial
 
