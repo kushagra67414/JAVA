@@ -112,7 +112,21 @@ public static format(long l);:To convert java number to locale object
 `Will Continue to regular commit my progress`
 ## today's progress 
 
-HackerRank proggress :
+> HackerRank proggress :
 [click to ckeck](https://www.hackerrank.com/KushagraBansal?hr_r=1)
+###  Day: Sunday
+> ques solve : 1. Java Method Overriding
+	       2. Java Method Overriding 2 (Super Keyword)
+	       3. Java Instanceof keyword
+	       4. Java Iterator
+	       5. Java Annotations
+
+
+
+
+
+
+
+
 reference link : https://www.javatpoint.com/java-tutorial
 
