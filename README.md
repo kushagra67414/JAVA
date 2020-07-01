@@ -120,10 +120,17 @@ public static format(long l);:To convert java number to locale object
 	       3. Java Instanceof keyword
 	       4. Java Iterator
 	       5. Java Annotations
-
-
-
-
+	    
+	    
+### Day: Wednesday
+>Question solved:  1. Tag Content Extractor
+		   2. JAVA STACK
+		   3. java Dequeue
+		   4. java comparator
+		   5. java MD5
+		   6. JAVA SHA-256
+		   
+	
 
 
 
