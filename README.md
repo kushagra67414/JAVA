@@ -133,7 +133,10 @@ public static format(long l);:To convert java number to locale object
 	
 ## Currently rank on java  practice oh HACKERRANK :  8437
 
-
+### Day: Thursday
+> Question solved :
+		1. JAVA Interface
+		2. Prime Checker
 
 reference link : https://www.javatpoint.com/java-tutorial
 
