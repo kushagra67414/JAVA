@@ -137,6 +137,19 @@ public static format(long l);:To convert java number to locale object
 > Question solved :
 		1. JAVA Interface
 		2. Prime Checker
+		
+		
+### Day: Wednesday
+**LEARN ABOUT :**
+ * Lambda Expression java
+ SYNTAX =>
+ 	    `lambda operator -> body`
+ * linked list
+> Question solved :
+		1. lambda expression
+		2. quese and stack
+		3. inheritance
+		4. linked list
 
 reference link : https://www.javatpoint.com/java-tutorial
 
